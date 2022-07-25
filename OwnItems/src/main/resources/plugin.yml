@@ -1,0 +1,8 @@
+name: OwnItems
+version: '${project.version}'
+main: OwnItems.java
+api-version: 1.19
+commands:
+  item:
+    description: op items
+    usage: /item
